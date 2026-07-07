@@ -52,20 +52,17 @@ I enjoy creating:
 
 </div>
 
----
-
 ## GitHub Overview
 
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Haryabest&show_icons=true&hide_border=true&bg_color=00000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff"/>
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haryabest&show_icons=true&hide_border=true&bg_color=00000000&title_color=22c55e&icon_color=22c55e"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haryabest&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=ffffff"/>
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Haryabest&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e"/>
 
 </div>
----
 
 ## Activity
 
