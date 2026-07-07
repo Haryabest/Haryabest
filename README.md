@@ -1,155 +1,189 @@
 <div align="center">
 
-# 🚀 Vadim | Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Vadim+%7C+Full+Stack+Developer;Building+Modern+Digital+Products;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Python+Developer;Desktop+Apps+with+Electron+and+Tauri;Building+Cool+Things+Every+Day" />
+<br/>
 
-<br>
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=Haryabest&style=flat&color=22c55e"/>
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
+</div>
+
+## About
+
+```text
+Full Stack Developer focused on building
+clean, scalable and modern applications.
+
+I enjoy creating:
+→ Web applications
+→ Desktop software
+→ Developer tools
+→ Automation systems
+→ AI-powered products
+```
+
+## Stack
+
+### Frontend
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind"/>
+
+</div>
+
+### Backend
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,express,postgres,redis,mongodb"/>
+
+</div>
+
+### Tools
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,electron,tauri"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## GitHub Overview
+
+<div align="center">
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=Haryabest&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22c55e"/>
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haryabest&layout=compact&theme=transparent&hide_border=true&title_color=22c55e"/>
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haryabest&theme=github-light&hide_border=true&color=22c55e"/>
+
+</div>
+
+---
+
+## Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### DevOS
+
+Desktop environment ecosystem.
+
+**Stack**
+
+`Electron` `Python` `TypeScript`
+
+</td>
+
+<td width="50%">
+
+### Crypto Dashboard
+
+Real-time analytics platform.
+
+**Stack**
+
+`React` `API` `Charts`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Smart Notes
+
+Modern productivity application.
+
+**Stack**
+
+`React` `Node.js` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### AI Tools
+
+Automation and AI utilities.
+
+**Stack**
+
+`Python` `OpenAI` `Docker`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Currently
 
 ```yaml
-Name: Vadim
-Role: Full Stack Developer
-Languages:
-  - TypeScript
-  - JavaScript
-  - Python
+learning:
+  - System Design
+  - Cloud Architecture
+  - AI Engineering
 
-Frontend:
-  - React
-  - Next.js
-  - Angular
-
-Backend:
-  - Node.js
-  - Express
-  - Flask
-
-Databases:
-  - PostgreSQL
-  - MongoDB
-  - Redis
-
-Desktop:
-  - Electron
-  - Tauri
-
-Tools:
-  - Docker
-  - Git
-  - Linux
+building:
+  - SaaS Applications
+  - Developer Tools
+  - Automation Systems
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Connect
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,python,postgres,mongodb,redis,docker,electron,flask,git,github,vscode,linux&perline=9"/>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-* ⚡ High-performance web applications
-* 🖥️ Desktop applications
-* ☁️ Cloud infrastructure
-* 🤖 AI integrations
-* 🔒 Secure backend architecture
-* 📱 Cross-platform solutions
-
----
-
-## 🌟 Featured Projects
-
-### 🚀 DevOS
-
-Modern desktop ecosystem built with Electron, TypeScript and Python.
-
-### 📊 Crypto Dashboard
-
-Real-time cryptocurrency analytics platform.
-
-### 📝 Smart Notes
-
-Advanced notes manager with calendar integration.
-
-### 🤖 AI Tools
-
-Collection of AI-powered developer utilities.
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Haryabest">
+<img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/ginghigher">
+<img src="https://img.shields.io/badge/Telegram-22c55e?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💻 "Code. Build. Improve. Repeat."
+<img src="https://github-profile-trophy.vercel.app/?username=Haryabest&theme=flat&no-frame=true&column=6"/>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+**Building things that matter.**
 
 </div>
